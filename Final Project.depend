@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1592338966 source:c:\users\yosf\desktop\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
+1592338966 source:d:\college\term 4\data structure 1\all term 4 submitted project folders\final project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
